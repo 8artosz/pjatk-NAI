@@ -1,4 +1,2 @@
-# pjatk-NAI
-This repository contains solutions of the exercises from Distributed programming technologies course.
-K-Means Clustering Algorithm Implementation
-K-Nearest Neighbors Algorithm Implementation
+# NAI(Artificial intelligence tools)
+This repository contains solutions of the exercises from Artificial intelligence tools course.
